@@ -8,7 +8,7 @@ const BatteryPage = (props) => {
   return (
     <div className="battery-page-container10">
       <Helmet>
-        <title>exported project</title>
+        <title>Battery Status</title>
       </Helmet>
       <div className="battery-page-container11">
         <div className="battery-page-battery1">
